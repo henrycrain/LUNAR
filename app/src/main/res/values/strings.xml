@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">LUNAR</string>
+
+    <string name="text_title">LUNAR</string>
+    <string name="text_sort">Sort by:</string>
+    <string name="text_view">View students in:</string>
+    
+    <string name="button_li">Log in</string>
+    <string name="button_lo">Log out</string>
+    <string name="button_x">Save state and quit</string>
+    <string name="button_q">Quit without saving state</string>
+    <string name="button_c">Name</string>
+    <string name="button_s">Semester</string>
+    <string name="button_a">Add class</string>
+    <string name="button_d">Drop class</string>
+    <string name="button_r">Register student</string>
+    <string name="button_dr">Deregister student</string>
+
+    <string name="title_add">Add Class</string>
+    <string name="title_drop">Drop Class</string>
+    <string name="title_register">Register Student</string>
+    <string name="title_deregister">Deregister Student</string>
+
+    <string name="prompt_webid">WebID</string>
+    <string name="prompt_department">Department</string>
+    <string name="prompt_number">Number</string>
+    <string name="prompt_semester">Semester</string>
+    <string name="prompt_year">Year</string>
+
+    <string name="button_fall">Fall</string>
+    <string name="button_spring">Spring</string>
+
+    <string name="message_dataLoaded">Saved data loaded.</string>
+    <string name="message_dataNotFound">No saved data found.</string>
+    <string name="message_studentNotFound">Invalid WebID.</string>
+    <string name="message_add">%1$s %2$d added in %3$s %4$d.</string>
+    <string name="message_invalidDepartment">Invalid department code.</string>
+    <string name="message_invalidNumber">Course number must be between 100 and 999.</string>
+    <string name="message_noSemester">Please select a semester.</string>
+    <string name="message_invalidYear">Year must be between 2010 and 2025.</string>
+    <string name="message_drop">%1$s %2$d dropped.</string>
+    <string name="message_courseNotFound">Course not found.</string>
+    <string name="message_register">%s registered.</string>
+    <string name="message_studentAlreadyExists">%s is already registered.</string>
+    <string name="message_deregister">%s deregistered.</string>
+    <string name="message_saveFailed">Save failed.</string>
+    <string name="message_quitNoSave">All changes since last save will be lost. Continue?</string>
+
+    <string name="button_ok">Okay</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_add">Add</string>
+    <string name="button_drop">Drop</string>
+    <string name="button_register">Register</string>
+    <string name="button_deregister">Deregister</string>
+    <string name="button_continue">Continue</string>
+</resources>
